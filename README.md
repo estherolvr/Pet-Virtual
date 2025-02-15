@@ -74,6 +74,8 @@ Projeto por Bruno, Esther, João e Higor- Fox Chatter
 
 Este projeto está licenciado sob a <a href="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons BY-SA 4.0<a/>
 
+Os assets utilizados neste jogo são provenientes do Itch.io, conforme citado na referência, e o modelo 3D da raposa é um asset oficial do Unity.
+
 Você é livre para:
 
 1) Compartilhar - Copiar e redistribuir o material em qualquer meio ou formato.
