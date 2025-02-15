@@ -4,14 +4,10 @@
 
 # FECAP - Fundação de Comércio Álvares Penteado
 
-<p align="center">
-<a href= "https://drive.google.com/file/d/125g9oSgz5wHfHHf9f7eu6yoyj15J4_vO/view?usp=sharing" alt="FECAP - Fundação de Comércio Álvares Penteado" border="0"></a>
-</p>
+# Fox Chatter – Um Encantador Jogo de Pet Virtual
 
-# Projeto 2- Ciclo Vicioso
+## Fox Chatter
 
-## Nome do Grupo
-Ciclo Vicioso
 
 ## Integrantes: <a href="https://github.com/Smug303">Bruno Eduardo Da Silva Pinho,</a> <a href="https://github.com/estherolvr">Esther Oliveira Costa</a> e Yanko Lee
 
