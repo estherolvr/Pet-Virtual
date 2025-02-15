@@ -89,37 +89,37 @@ Desde que Siga os termos:
 ## 🎓 Referências
 Referências usadas no projeto:
 <br>
-https://www.flaticon.com/​
+1- https://www.flaticon.com/​
 
-https://static.vecteezy.com/system/resources/previews/000/056/334/original/game-controller-vector.jpg​
+2- https://static.vecteezy.com/system/resources/previews/000/056/334/original/game-controller-vector.jpg​
 
-https://img.freepik.com/fotos-premium/raposa-vermelha-em-fundo-branco-vista-lateral-isolada-de-fuchs-um-mamifero-majestoso_817921-12166.jpg​
+3- https://img.freepik.com/fotos-premium/raposa-vermelha-em-fundo-branco-vista-lateral-isolada-de-fuchs-um-mamifero-majestoso_817921-12166.jpg​
 
-https://img.freepik.com/vetores-premium/ilustracao-legal-e-classica-dos-desenhos-animados-da-lampada-de-mesa-verde-azul_292879-1402.jpg​
+4- https://img.freepik.com/vetores-premium/ilustracao-legal-e-classica-dos-desenhos-animados-da-lampada-de-mesa-verde-azul_292879-1402.jpg​
 
-https://th.bing.com/th/id/OIP.Rf1L_mxcokHCsJ3olfCZDwHaDv?rs=1&pid=ImgDetMain​
+5- https://th.bing.com/th/id/OIP.Rf1L_mxcokHCsJ3olfCZDwHaDv?rs=1&pid=ImgDetMain​
 
-https://pixabay.com/pt/sound-effects/​
+6- https://pixabay.com/pt/sound-effects/​
 
-https://elements.envato.com/pt-br/sound-effects/game-sounds?msockid=3ccfcda515326fdd2401d95e144b6e5d​
+7- https://elements.envato.com/pt-br/sound-effects/game-sounds?msockid=3ccfcda515326fdd2401d95e144b6e5d​
 
-​https://tinytreats.itch.io/charming-kitchen​
+8- ​https://tinytreats.itch.io/charming-kitchen​
 
-https://tinytreats.itch.io/baked-goods​
+9- https://tinytreats.itch.io/baked-goods​
 
-https://tinytreats.itch.io/homely-house​
+10- https://tinytreats.itch.io/homely-house​
 
-https://tinytreats.itch.io/pretty-park​
+11- https://tinytreats.itch.io/pretty-park​
 
-https://tinytreats.itch.io/bubbly-bathroom​
+12- https://tinytreats.itch.io/bubbly-bathroom​
 
-https://kaylousberg.itch.io/restaurant-bits​
+13- https://kaylousberg.itch.io/restaurant-bits​
 
-https://kaylousberg.itch.io/furniture-bits​
+14- https://kaylousberg.itch.io/furniture-bits​
 
-https://kaylousberg.itch.io/kay-kit-mini-game-variety-pack​
+15- https://kaylousberg.itch.io/kay-kit-mini-game-variety-pack​
 
-https://kosresetr55.itch.io/flappy-bird-assets-by-kosresetr55​
+16- https://kosresetr55.itch.io/flappy-bird-assets-by-kosresetr55​
 
 ​
 
