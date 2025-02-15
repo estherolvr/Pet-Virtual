@@ -16,6 +16,8 @@
 
 <p align="center">
 <img src="https://drive.google.com/uc?export=view&id=1UASiLcCdA0Ad-6yClJF92gcv52v4ossB" alt="NOME DO JOGO" border="0">
+<img src="https://drive.google.com/uc?export=view&id=1XV-SFdxOtumBseqhgSKpeCWR9ukTmnRw" alt="NOME DO JOGO" border="0">
+
 
 </p>
 🎮 Fox Chatter – Um Encantador Jogo de Pet Virtual
