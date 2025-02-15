@@ -17,12 +17,20 @@
 <p align="center">
 <img src="https://drive.google.com/uc?export=view&id=18pYqd0XV3jZEwX_BzoItbffGwRA0q6Gv" alt="NOME DO JOGO" border="0">
 </p>
-O jogo aborda o cotidiano de um personagem com Transtorno de Ansiedade Generalizada (TAG), explorando como a pressão por produtividade e a falta de lazer agravam sua condição. Ele conduz o jogador por um ciclo diário de tarefas e reflexões, com o propósito de destacar a importância do equilíbrio entre trabalho e saúde mental, promovendo a conscientização sobre o impacto da ansiedade no dia a dia.
+🎮 Fox Chatter – Um Encantador Jogo de Pet Virtual
 
-A gameplay do jogo pode ser dividida em três principais fases:
-1. <b>Rotina Diária:</b> Complete tarefas básicas enquanto lida com a pressão do tempo. 
-2. <b>Gestão da Ansiedade:</b> Enfrente e alivie a ansiedade para romper o ciclo do estresse. 
-3. <b>Tomada de Consciência:</b> Explore como o excesso de responsabilidades impacta a saúde mental e emocional.
+Fox Chatter é um jogo de pet virtual, desenvolvido no Unity com C#, que convida os jogadores a cuidar de uma adorável raposa, criando um vínculo único e explorando o mundo mágico dessa companheira esperta. O nome “Fox Chatter” foi escolhido para destacar a interação carinhosa e animada com a raposa, trazendo vida e personalidade ao pet virtual.
+
+🦊 Por que uma raposa?
+A raposa é conhecida por sua inteligência e astúcia, mas também por seu lado brincalhão e curioso. Em Fox Chatter, capturamos essa essência, permitindo que os jogadores se divirtam cuidando, alimentando e brincando com um pet que é tão encantador quanto imprevisível.
+
+🎲 Diversão Garantida com 3 Mini Jogos:
+Para tornar a experiência ainda mais envolvente, Fox Chatter oferece três emocionantes mini jogos que ajudam a fortalecer a conexão com a raposa:
+
+Um desafio estratégico de pedra, papel e tesoura, testando a intuição do jogador.
+Uma eletrizante corrida cheia de obstáculos e velocidade, onde a raposa mostra sua agilidade.
+Um divertido jogo de reflexos e precisão, em que a raposa desvia de desafios enquanto avança em uma jornada contínua.
+Fox Chatter foi desenvolvido com Unity e programado em C#, trazendo uma experiência simples e divertida para quem adora pets virtuais.
    
 ## 🛠 Estrutura de pastas
 /Assets - Pacote principal do jogo <br>
@@ -39,13 +47,12 @@ A gameplay do jogo pode ser dividida em três principais fases:
 <b>Windows:</b>
 
 Não há instalação! Apenas executável!
-Baixe o arquivo "Ciclo_Vicioso.rar", extraia-o e execute o "Ciclo_Vicioso.exe" como qualquer outro programa.
+Baixe o arquivo "Foxchatter.rar", extraia-o e execute o "FoxChatter.exe" como qualquer outro programa.
 
 ## 💻 Configuração para Desenvolvimento
 
 Para abrir este projeto você necessita das seguintes ferramentas:
 
-Arquivos de projeto no Unity: https://drive.google.com/file/d/1TT3ZED2lyiuikb9jIK0E7vUHvw5qPOj5/view?usp=sharing
 Baixar a plataforma <a href="https://unity.com/pt/releases/editor/whats-new/2022.3.6">Unity</a> e instalar a versão 2022.3.36f1
 
 Sigas as etapas:
@@ -57,7 +64,7 @@ Sigas as etapas:
 - Abra o projeto (Utilize a mesma versão do projeto "2022.3.36f1" ou pode haver erro ao tentar abrir)
 
 ## 📋 Licença/License
-Projeto por Bruno, Esther e Yanko - Ciclo Vicioso
+Projeto por Bruno, Esther, João e Higor- Fox Chatter
 
 Este projeto está licenciado sob a <a href="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons BY-SA 4.0<a/>
 
