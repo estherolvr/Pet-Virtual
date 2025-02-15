@@ -1,7 +1,5 @@
 # Pet-Virtual
 
-## Link para arquivos do Unity: https://drive.google.com/file/d/1TT3ZED2lyiuikb9jIK0E7vUHvw5qPOj5/view?usp=sharing
-
 # FECAP - Fundação de Comércio Álvares Penteado
 
 # Fox Chatter – Um Encantador Jogo de Pet Virtual
@@ -11,7 +9,7 @@
 
 ## Integrantes: <a href="https://github.com/Smug303">Bruno Eduardo Da Silva Pinho,</a> <a href="https://github.com/estherolvr">Esther Oliveira Costa</a> e Yanko Lee
 
-## Professores Orientadores: Adriano Felix Valente, Fabiano Alves Onça, Francisco de Souza Escobar, João Pedro da Costa Pinto, <a href="https://www.linkedin.com/in/victorbarq/">Victor Bruno Alexander Rosetti de Queiroz</a>
+## Professores Orientadores: Adriano Felix Valente</a>
 
 ## 🎮Descrição Do Jogo
 
