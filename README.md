@@ -17,6 +17,9 @@
 <p align="center">
 <img src="https://drive.google.com/uc?export=view&id=1UASiLcCdA0Ad-6yClJF92gcv52v4ossB" alt="NOME DO JOGO" border="0">
 <img src="https://drive.google.com/uc?export=view&id=1XV-SFdxOtumBseqhgSKpeCWR9ukTmnRw" alt="NOME DO JOGO" border="0">
+<img src="https://drive.google.com/uc?export=view&id=13bFebHcSMZYRcyaFm3vXXY7SfL6lx9x2" alt="NOME DO JOGO" border="0">
+<img src="https://drive.google.com/uc?export=view&id=1yHAVQ9CE0Ki7EtXVe4MVvsotkOKbESjQ" alt="NOME DO JOGO" border="0">
+
 
 
 </p>
