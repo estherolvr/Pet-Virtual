@@ -86,22 +86,37 @@ Desde que Siga os termos:
 
 ## 🎓 Referências
 Referências usadas no projeto:
+https://www.flaticon.com/​
 
-1. <https://youtu.be/PsvhXlBlfp4?si=Kkhkhn25_RpFbvOb>
-2. <https://youtu.be/K9hJTO583_Y?si=i9sUWea-EeI_gDPo>
-3. <https://youtu.be/61NzCU3EdUs?si=0CPMnRU-kJp9sQSL/>
-4. <https://pixabay.com/sound-effects//>
-5. <https://assetstore.unity.com/packages/tools/modeling/mess-maker-free-213803>
-6. <https://www.turbosquid.com/3d-models/3d-broom-dust-pan-1451997>
-7. <https://kaylousberg.itch.io/city-builder-bits>
-8. <https://kaylousberg.itch.io/restaurant-bits>
-9. <https://www.mixamo.com/>
-10. <https://assetstore.unity.com/search#q=Modern%20Archviz%3A%20Leafless>
-11. <https://assetstore.unity.com/search#q=office%20pack>
-    
-Músicas e efeitos sonoros:
+https://static.vecteezy.com/system/resources/previews/000/056/334/original/game-controller-vector.jpg​
 
-1. <https://pixabay.com/pt/sound-effects/latidos-de-corazon-236173/>
-2. <https://pixabay.com/pt/sound-effects/search/pessoas%20comendo/>
-3. <https://pixabay.com/pt/sound-effects/search/people%20talking/>
-4. <https://pixabay.com/pt/users/cyberwave-orchestra-23801316/>
+https://img.freepik.com/fotos-premium/raposa-vermelha-em-fundo-branco-vista-lateral-isolada-de-fuchs-um-mamifero-majestoso_817921-12166.jpg​
+
+https://img.freepik.com/vetores-premium/ilustracao-legal-e-classica-dos-desenhos-animados-da-lampada-de-mesa-verde-azul_292879-1402.jpg​
+
+https://th.bing.com/th/id/OIP.Rf1L_mxcokHCsJ3olfCZDwHaDv?rs=1&pid=ImgDetMain​
+
+https://pixabay.com/pt/sound-effects/​
+
+https://elements.envato.com/pt-br/sound-effects/game-sounds?msockid=3ccfcda515326fdd2401d95e144b6e5d​
+
+​https://tinytreats.itch.io/charming-kitchen​
+
+https://tinytreats.itch.io/baked-goods​
+
+https://tinytreats.itch.io/homely-house​
+
+https://tinytreats.itch.io/pretty-park​
+
+https://tinytreats.itch.io/bubbly-bathroom​
+
+https://kaylousberg.itch.io/restaurant-bits​
+
+https://kaylousberg.itch.io/furniture-bits​
+
+https://kaylousberg.itch.io/kay-kit-mini-game-variety-pack​
+
+https://kosresetr55.itch.io/flappy-bird-assets-by-kosresetr55​
+
+​
+
