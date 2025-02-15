@@ -7,7 +7,7 @@
 ## Fox Chatter
 
 
-## Integrantes: <a href="https://github.com/Smug303">Bruno Eduardo Da Silva Pinho,</a> <a href="https://github.com/estherolvr">Esther Oliveira Costa</a>  <a href="https://github.com/joaovictorfaria">João Victor de Faria</a> e <a href="https://github.com/higor-f">Higor Fonseca</a> 
+## Integrantes: <a href="https://github.com/Smug303">Bruno Eduardo Da Silva Pinho,</a> <a href="https://github.com/estherolvr">Esther Oliveira Costa</a> , <a href="https://github.com/joaovictorfaria">João Victor de Faria</a> e <a href="https://github.com/higor-f">Higor Fonseca</a> 
 
 
 ## Professores Orientadores: Adriano Felix Valente</a>
