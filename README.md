@@ -86,6 +86,7 @@ Desde que Siga os termos:
 
 ## 🎓 Referências
 Referências usadas no projeto:
+<br>
 https://www.flaticon.com/​
 
 https://static.vecteezy.com/system/resources/previews/000/056/334/original/game-controller-vector.jpg​
