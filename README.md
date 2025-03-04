@@ -1,4 +1,3 @@
-# Link para baixar o arquivo do jogo https://drive.google.com/file/d/1U0RfJlR5qRaxJxzylQaCqdqKcQsmHI8J/view?usp=sharing
 
 # Pet-Virtual
 
